@@ -24,7 +24,7 @@ import pantallas.ReportesFrm;
 
 /**
  * hilo que ayudara a escuchar los mensajes recibidos del lado del cliente
- * @author rjsaa
+ * 
  */
 public class HiloClienteReportes extends Thread{
     //sockets y buffer a usar para interpretar el mensaje

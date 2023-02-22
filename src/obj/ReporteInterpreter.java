@@ -4,10 +4,6 @@
  */
 package obj;
 
-/**
- *
- * @author Alexandra
- */
 public class ReporteInterpreter {
     public static String toString(Reporte reporte) {
         return reporte.getIdReporte()+ "," + reporte.getProducto().getNombre() + "," + reporte.getComentario();

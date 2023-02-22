@@ -12,10 +12,6 @@ import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author rjsaa
- */
 public class Servidor {
 
     public static void main(String[] args) {

@@ -26,10 +26,6 @@ import obj.ReporteInterpreter;
 import sockets.HiloClienteProductos;
 import sockets.HiloClienteReportes;
 
-/**
- *
- * @author rjsaa
- */
 public class ReportesFrm extends javax.swing.JFrame {
 
     ArrayList<Producto> productos = new ArrayList<>();

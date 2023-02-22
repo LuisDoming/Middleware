@@ -4,10 +4,7 @@
  */
 package obj;
 
-/**
- *
- * @author rjsaa
- */
+
 public class Reporte {
     
     private int idReporte;

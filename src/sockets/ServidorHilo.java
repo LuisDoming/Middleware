@@ -15,7 +15,7 @@ import obj.ReporteInterpreter;
 
 /**
  * hilo que ayudara a escuchar los mensajes recibidos del lado del cliente
- * @author rjsaa
+ *
  */
 public class ServidorHilo extends Thread{
     //sockets y buffer a usar para interpretar el mensaje

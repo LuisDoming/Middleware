@@ -22,10 +22,7 @@ import obj.ProductoInterpreter;
 import obj.Reporte;
 import sockets.HiloClienteProductos;
 
-/**
- *
- * @author rjsaa
- */
+
 public class ProductosFrm extends javax.swing.JFrame {
 
     ArrayList<Producto> productos = new ArrayList<>();

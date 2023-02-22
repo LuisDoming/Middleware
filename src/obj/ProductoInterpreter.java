@@ -4,10 +4,7 @@
  */
 package obj;
 
-/**
- *
- * @author Alexandra
- */
+
 public class ProductoInterpreter {
     public static String toString(Producto producto) {
         return producto.getIdProducto()+","+ producto.getNombre()+ "," + producto.getDescripcion();
